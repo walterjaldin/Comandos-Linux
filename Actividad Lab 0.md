@@ -1,3 +1,7 @@
+
+## Estudiante: Jaldin Gonzales Walter
+## Materia: SCO420
+
 ### Crear un grupo con el nombre "tecnologos" (puede usar otros parámetros personalizados en la creación de la cuenta del usuario)
 
 ```
